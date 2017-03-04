@@ -66,3 +66,7 @@ Now install the plugin from vim
 :PluginInstall
 after the plugin has been installed close the extra splitted window by :bdelete
 ```
+
+
+For nice collection of vim plugins and their popularity and usages see:
+	http://vimawesome.com/
