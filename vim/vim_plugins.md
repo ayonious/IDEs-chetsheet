@@ -26,7 +26,7 @@ filetype plugin indent on    " required
 ```
 
 
-#Install a plugin using vbundle. Lets Install NERDTree
+# Install NERDTree vim pluging (using Vbundle)
 
 Your .vimrc file will looks like this
 ```
@@ -63,7 +63,5 @@ filetype plugin indent on    " required
 Now install the plugin from vim
 ```
 <esc> + :PluginInstall
-after the plugin has been install close the extra splitted window by :bdelete
+after the plugin has been installed close the extra splitted window by :bdelete
 ```
-
-

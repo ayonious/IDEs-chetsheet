@@ -1,6 +1,6 @@
 This is a short introduction to vim and how to feel awesome with vim
 
-##installtion:
+## Installtion:
 Most of the time its installed no matter what you have linux/unix/mac
 
 To use the latest version you can install it again:
@@ -22,12 +22,13 @@ vim <file>
 Every settings of vim is saved in `~/.vimrc` file
 
 
-##1. Setting line numbers in vim
-By default when you open a file using vim you dont see line numbers, open a file and do this to see the line numebrs```
-<esc> + :set number <enter>
+## Setting line numbers in vim
+By default when you open a file using vim you dont see line numbers, open a file and do this to see the line numebrs
+```
+<esc> +:set number <enter>
 ```
 
-Or you can just put this line in `~/vimrc` file directly to always by default see line numbers in all files opened by vim
+Or you can just put this line in `~/.vimrc` file directly to always by default see line numbers in all files opened by vim
 
 ##2. Change modes in vim
 There are 2 modes in vim one is INSERT mode another is command mode
