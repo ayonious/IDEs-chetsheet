@@ -62,6 +62,7 @@ filetype plugin indent on    " required
 
 Now install the plugin from vim
 ```
-<esc> + :PluginInstall
+<esc> 
+:PluginInstall
 after the plugin has been installed close the extra splitted window by :bdelete
 ```
